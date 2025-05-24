@@ -1,0 +1,2 @@
+# DMS
+ DMS (Diploma Management System) is a web application built with .NET and React/ViteJS for managing and verifying diplomas, supporting role-based access (Student, Recruiter, Staff, Admin) with JWT authentication. The system leverages blockchain-inspired hash chaining to ensure the integrity and authenticity of issued diplomas. Data is securely stored in SQL Server with user account management and avatar support.

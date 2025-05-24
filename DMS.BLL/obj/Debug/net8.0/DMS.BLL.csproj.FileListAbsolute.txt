@@ -1,0 +1,14 @@
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\bin\Debug\net8.0\DMS.BLL.deps.json
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\bin\Debug\net8.0\DMS.BLL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\bin\Debug\net8.0\DMS.BLL.pdb
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.AssemblyInfoInputs.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.AssemblyInfo.cs
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\refint\DMS.BLL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.pdb
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\ref\DMS.BLL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\bin\Debug\net8.0\DMS.BLL.runtimeconfig.json
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.csproj.AssemblyReference.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.BLL\obj\Debug\net8.0\DMS.BLL.genruntimeconfig.cache

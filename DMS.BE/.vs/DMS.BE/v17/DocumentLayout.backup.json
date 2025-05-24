@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\DMS.BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC411CC-CA7E-4DE1-8D3A-2B1860D9F398}|..\\DMS.BLL\\DMS.BLL.csproj|c:\\users\\duchi\\desktop\\pet\\dms\\dms.bll\\models\\dmsdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC411CC-CA7E-4DE1-8D3A-2B1860D9F398}|..\\DMS.BLL\\DMS.BLL.csproj|c:\\users\\duchi\\desktop\\pet\\dms\\dms.bll\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8946-6008-4BDD-92F0-846542876F20}|NewFolder1{615B8946-6008-4BDD-92F0-846542876F20}|C:\\Users\\duchi\\Desktop\\PET\\DMS\\docs\\Command.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DmsdatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\DMS.BLL\\Models\\DmsdatabaseContext.cs",
+              "RelativeDocumentMoniker": "..\\DMS.BLL\\Models\\DmsdatabaseContext.cs",
+              "ToolTip": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\DMS.BLL\\Models\\DmsdatabaseContext.cs",
+              "RelativeToolTip": "..\\DMS.BLL\\Models\\DmsdatabaseContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:09:11.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\DMS.BLL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\DMS.BLL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\DMS.BLL\\Models\\User.cs",
+              "RelativeToolTip": "..\\DMS.BLL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:09:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.txt",
+              "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\docs\\Command.txt",
+              "RelativeDocumentMoniker": "..\\docs\\Command.txt",
+              "ToolTip": "C:\\Users\\duchi\\Desktop\\PET\\DMS\\docs\\Command.txt",
+              "RelativeToolTip": "..\\docs\\Command.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-24T06:07:46.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

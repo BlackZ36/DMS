@@ -1,0 +1,14 @@
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\bin\Debug\net8.0\DMS.DAL.deps.json
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\bin\Debug\net8.0\DMS.DAL.runtimeconfig.json
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\bin\Debug\net8.0\DMS.DAL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\bin\Debug\net8.0\DMS.DAL.pdb
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.csproj.AssemblyReference.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.AssemblyInfoInputs.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.AssemblyInfo.cs
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\refint\DMS.DAL.dll
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.pdb
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\DMS.DAL.genruntimeconfig.cache
+C:\Users\duchi\Desktop\PET\DMS\DMS.DAL\obj\Debug\net8.0\ref\DMS.DAL.dll
