@@ -62,4 +62,21 @@
 | DiplomaNumber   | NVARCHAR(50)    | Unique diploma number          |
 | BlockchainHash  | NVARCHAR(255)   | Hash used for verification     |
 | CreatedAt       | DATETIME        | Issued date                    |
-| CreatedBy       | INT
+| Nonce           | INT             | Proof-of-work value            |
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- .NET 6 SDK or later
+- Node.js + npm
+- SQL Server (LocalDB or remote)
+- Git
+
+### Backend Setup
+```bash
+cd backend
+dotnet restore
+dotnet ef database update
+dotnet run
