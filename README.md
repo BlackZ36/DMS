@@ -80,3 +80,11 @@ cd backend
 dotnet restore
 dotnet ef database update
 dotnet run
+```
+
+### Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+```
